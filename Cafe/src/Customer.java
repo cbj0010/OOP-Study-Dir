@@ -15,6 +15,4 @@ public class Customer {
         //    Menu menu1 = new Menu();     //이렇게 해서
         //   menu1.choose(menuName); //이렇게 보냈을 듯?
     }
-
-
 }
